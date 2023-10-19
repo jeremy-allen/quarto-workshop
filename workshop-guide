@@ -1,0 +1,80 @@
+Welcome
+Introductions
+Ground Rules
+Agenda: Build Stuff and Learn
+
+Log in
+Overview Workbench, Connect, Package Manager
+IDE setup
+Link Workbench to Connect
+
+What is Quarto?
+Clone basic repo as new project
+Orient to RStudio Projects
+- nav away in files tab
+- R icon to return to project directory
+
+Demystify the Output Formats:
+
+Basic Docs
+- HTML doc
+- PDF doc
+- Word doc
+Basic Presentation
+Basic Website (as own project)
+Basic Blog (as own project)
+- The home page is a listing page for all of the documents in the posts directory
+Basic Book (as own project)
+
+Authoring with Markdown:
+
+In a new project - HTML doc
+- Sections, YAML, Lorem
+- Bullets
+- Images
+- Tables
+- Code blocks
+- Citations
+- Cross references
+- Footnotes
+- Divs
+- Layouts
+- Code tools
+
+In a new project - Blog
+- Make a new post, create a sub-directory within posts and add an index.qmd file to the directory
+- add two images to the post, and add a description
+- Categories on posts
+- The 5 templates for About Pages
+  jolla
+  trestles
+  solana
+  marquee
+  broadside
+
+In a new project - Presentation
+- Sections as slides
+- Incremental bullets
+- Fragments
+- Columns
+- Code blocks
+- Code step-through
+- Code output
+- Secret key PDF download
+
+In a new project - Book (if time)
+
+Theming:
+- built in themes
+- add css code chunk
+- add scss file
+- scss variables and rules
+
+ETL and Pins:
+- double check connection to Connect
+- pin and verify
+- publish ETL doc and schedule
+- read pin into other report
+
+Publishing to Connect:
+Export your content:
