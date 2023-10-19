@@ -70,6 +70,8 @@ Theming:
 - add scss file
 - scss variables and rules
 
+Parameters
+
 ETL and Pins:
 - double check connection to Connect
 - pin and verify
